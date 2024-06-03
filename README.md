@@ -104,6 +104,8 @@ Module
 
 Sub-Module
 
+Priority
+
 Severity
 
 Screenshot or Video
