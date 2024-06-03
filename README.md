@@ -29,8 +29,6 @@ The test plan is located in the Excel sheet named "techlandbd.com_Testing_Docume
 Here is a screenshot of the file:
 
 ![Test Plan](https://github.com/shahriarfarabi/manual_testing_techlandbd/blob/main/Others/test_plan_excel_screenshot.png?raw=true)
-
-
 ## Mind Maps
 
 Mind maps were created to visualize the structure and flow of the login page and footer elements. These diagrams help in understanding the components and their interactions.
@@ -103,8 +101,6 @@ Environment
 Module
 
 Sub-Module
-
-Priority
 
 Severity
 
